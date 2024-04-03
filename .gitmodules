@@ -1,0 +1,3 @@
+[submodule "e-blog/themes/hugo-theme-next"]
+	path = e-blog/themes/hugo-theme-next
+	url = https://github.com/hugo-next/hugo-theme-next.git
