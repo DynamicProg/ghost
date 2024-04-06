@@ -1,6 +1,7 @@
 +++
 title = "Hugo"
 menu = "main"
+weight = 1
 +++
 
 # Hugo
