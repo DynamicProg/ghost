@@ -43,10 +43,10 @@ The blockquote element...
 
 Tables aren't part of the core Markdown spec, but Hugo supports...
 
-	Name  | Age
---------------|-----
-	Alice | 23
-	Bob   | 27
+   Name | Age
+--------|------
+    Bob | 27
+  Alice | 23
 
 #### Inline Markdown with tables
 

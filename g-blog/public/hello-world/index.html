@@ -50,7 +50,7 @@ Blockquote without attribution Tiam, ad mint&hellip; Note that you can use Markd
 Blockquote with attribution Don&rsquo;t communicate by sharing memory, share memory by communication.
 Rob Tables Tables aren&rsquo;t part of the core Markdown spec, but Hugo supports&hellip;"><meta itemprop="datePublished" content="2024-04-04T03:28:16+08:00" />
 <meta itemprop="dateModified" content="2024-04-04T03:28:16+08:00" />
-<meta itemprop="wordCount" content="100"><meta itemprop="image" content="https://dynamicprog.github.io/images/share.png" />
+<meta itemprop="wordCount" content="96"><meta itemprop="image" content="https://dynamicprog.github.io/images/share.png" />
 <meta itemprop="keywords" content="markdown,hello," />
 <meta name="referrer" content="no-referrer-when-downgrade" />
 
@@ -287,11 +287,24 @@ Rob Tables Tables aren&rsquo;t part of the core Markdown spec, but Hugo supports
 </blockquote>
 <h2 id="tables">Tables</h2>
 <p>Tables aren&rsquo;t part of the core Markdown spec, but Hugo supports&hellip;</p>
-<pre><code>Name  | Age
-</code></pre>
-<p>&mdash;&mdash;&mdash;&mdash;&ndash;|&mdash;&ndash;
-Alice | 23
-Bob   | 27</p>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Age</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bob</td>
+<td>27</td>
+</tr>
+<tr>
+<td>Alice</td>
+<td>23</td>
+</tr>
+</tbody>
+</table>
 <h4 id="inline-markdown-with-tables">Inline Markdown with tables</h4>
 <table>
 <thead>
