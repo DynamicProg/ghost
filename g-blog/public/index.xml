@@ -31,11 +31,11 @@
       <description>About This is a learning blog.&#xA;GitHub</description>
     </item>
     <item>
-      <title>Hello</title>
-      <link>https://dynamicprog.github.io/hello/</link>
+      <title>Hello World</title>
+      <link>https://dynamicprog.github.io/hello-world/</link>
       <pubDate>Thu, 04 Apr 2024 03:28:16 +0800</pubDate>
-      <guid>https://dynamicprog.github.io/hello/</guid>
-      <description>Hello World This is a markdown blog.</description>
+      <guid>https://dynamicprog.github.io/hello-world/</guid>
+      <description>Hello World This is a markdown blog.&#xA;Head The following HTML &amp;lt;h1&amp;gt;-&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section. &amp;lt;h6&amp;gt; is the lowest.&#xA;H1 H2 H3 H4 H5 H6 Blockquotes The blockquote element&amp;hellip;&#xA;Blockquote without attribution Tiam, ad mint&amp;hellip; Note that you can use Markdown syntax within a blockquote.&#xA;Blockquote with attribution Don&amp;rsquo;t communicate by sharing memory, share memory by communication.&#xA;Rob Tables Tables aren&amp;rsquo;t part of the core Markdown spec, but Hugo supports&amp;hellip;</description>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
