@@ -12,10 +12,10 @@
 
 # 站点域名，比如： https://hugo-next.eu.org
 # Website domain, eg: https://hugo-next.eu.org
-baseURL: https://dynamicprog.github.io
+baseURL: /
 # 站点标题
 # Website title
-title: NexT
+title: DynaProg
 # 主题名称
 # Theme name
 theme: hugo-theme-next
@@ -144,11 +144,11 @@ menus:
       pageref: /archives
       pre: archive
       weight: 4
-    - identifier: commonweal
-      name: 公益 404
-      url: /404.html
-      pre: heartbeat
-      weight: 5
+#    - identifier: commonweal
+#      name: 公益 404
+#      url: /404.html
+#      pre: heartbeat
+#      weight: 5
 
 #-----------------------------------------
 # Hugo NexT 主题参数配置
@@ -180,10 +180,10 @@ params:
 
   # 站点基本信息
   # Site Information Settings
-  author: NexT 主题
-  subtitle: 为 Hugo 打造的主题
-  description: 保持简单的易用性和强大的功能。
-  keywords: Hugo,NexT,主题,简单,强大
+  author: DynaProg
+  subtitle: Blogs for learning
+  description: Keep it simple
+  keywords: Hugo,NexT,主题
 
   # 不同尺寸站点图标
   # Different size of favicon
@@ -314,9 +314,9 @@ params:
   # Key is the link label order.
   # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
   socials: 
-    social0: Github || https://github.com/elkan1788 || fab fa-github
+    social0: Github || https://www.github.com/DynamicProg || fab fa-github
     #social1: E-Mail || mailto:yourname@gmail.com || fa fa-envelope
-    social2: 知乎 || https://www.zhihu.com/people/lisenhui || fa fa-book
+#    social2: 知乎 || https://www.zhihu.com/people/lisenhui || fa fa-book
     #Google: https://plus.google.com/yourname || fab fa-google
     #Twitter: https://twitter.com/yourname || fab fa-twitter
     #FB Page: https://www.facebook.com/yourname || fab fa-facebook
@@ -358,7 +358,7 @@ params:
   # Usage: `Key: name || permalink`
   links: 
     link0: Hugo-NexT || https://gitee.com/hugo-next/hugo-theme-next
-    link1: 凡梦星尘空间站 || https://lisenhui.cn
+    link1: DynamicProg || https://www.github.com/DynamicProg
 
   # 文章目录显示
   # Table of Contents in the Sidebar
@@ -388,11 +388,11 @@ params:
   footer:
     # 启动谷歌翻译功能
     # Enable google translate in footer
-    translate: true
+    translate: false
     # 站点开始年份，默认为当下时间的年份
     # Specify the year when the site was setup. 
     # If not defined, current year will be used.
-    since: 2010
+    since: 2024
 
     # 年份和版权信息之间的图标
     # Icon between year and copyright info.
@@ -409,7 +409,7 @@ params:
 
     # 版权信息，如不设置将会使用 `author` 变量
     # If not defined, `author` from site information will be used.
-    copyright:
+    copyright: DynamicProg
 
     # 显示 Hugo 和 NexT 支持
     # Powered by Hugo & NexT
@@ -419,7 +419,7 @@ params:
     # Beian ICP and gongan information for Chinese users. 
     # See: https://beian.miit.gov.cn, http://www.beian.gov.cn
     beian:
-      enable: true
+      enable: false
       # ICP 备案的具体信息
       icp: 粤ICP备 18047355-1 号
       # 公安网备的省份简称
@@ -430,7 +430,7 @@ params:
     # 站点支持供应商列表
     # Vendors list who support website. 
     vendors:
-      enable: true
+      enable: false
       # 支持说明
       # Some support information description.
       title: 提供CDN/云资源支持
@@ -509,7 +509,7 @@ params:
     # 是否开启捐赠按钮，开启后将在每个文章页面底部显示
     # If true, a donate button will be displayed 
     # in every article by default.
-    enable: true
+    enable: false
     # 是否开启捐赠方式的动画效果
     # If true, the donate type title will with animation.
     animation: true
