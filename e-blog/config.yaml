@@ -134,11 +134,11 @@ menus:
       pageref: /about.html
       pre: user
       weight: 2
-    - identifier: flinks
-      name: 站点示例
-      pageref: /flinks.html
-      pre: thumbs-up
-      weight: 3
+#    - identifier: flinks
+#      name: 站点示例
+#      pageref: /flinks.html
+#      pre: thumbs-up
+#      weight: 3
     - identifier: archives
       name: 归档
       pageref: /archives
@@ -217,10 +217,10 @@ params:
     size: big
     # 侧边栏显示
     # Show in sidebar
-    sidebar: true
+    sidebar: false
     # 文章底部显示
     # Show in post footer
-    post: true
+    post: false
 
   # OG SEO 配置
   # Open graph settings
@@ -300,7 +300,7 @@ params:
     # 站点访问信息
     # Site's view information
     views:  
-      enable: true
+      enable: false
       # 组件类型，可选值为： 51la, busuanzi
       # 使用51la时需要注册账号：https://invite.51.la/
       # Plguin value is: 51la, busuanzi
@@ -533,14 +533,14 @@ params:
   followMe:
     #channel0: Twitter || https://twitter.com/username || fab fa-twitter
     #channel1: Telegram || https://t.me/channel_name || fab fa-telegram
-    channel2: WeChat || /images/wechat_channel.jpg || fab fa-weixin
-    channel3: RSS || /atom.xml || fa fa-rss
+#    channel2: WeChat || /images/wechat_channel.jpg || fab fa-weixin
+#    channel3: RSS || /atom.xml || fa fa-rss
 
   # 文章的在线编辑
   # Post edit
   # Easily browse and edit blog source code online.
   postEdit:
-    enable: true
+    enable: false
     url: https://github.com/user-name/repo-name/tree/branch-name/subdirectory-name/
 
 
@@ -636,7 +636,7 @@ params:
   githubBanner:
     # 是否开启显示
     # If true, will display banner.
-    enable: true
+    enable: false
     # 你的 Github 仓库地址
     # Your repository url on Github.
     permalink: https://github.com/hugo-next
