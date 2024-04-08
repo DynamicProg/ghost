@@ -22,7 +22,7 @@ weight: 2
 
 <!--more-->
 
-## CV:
+## CV
 
 * [简历介绍和教程](post/cv-introduction.html)
 * [简历模版](post/cv-template.html)
@@ -88,8 +88,9 @@ weight: 2
 * [LeetCode-0003-无重复字符的最长子串](post/leetcode-0003.html)
 * [LeetCode-0004-寻找两个正序数组的中位数](post/leetcode-0004.html)
 * [LeetCode-0005-最长回文子串](post/leetcode-0005.html)
+* ...
 
-## Room:
+## Room
 
 * [租房平台](post/room-platform.html)
 * [租房注意事项](post/room-platform.html)
