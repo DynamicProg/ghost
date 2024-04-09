@@ -4,7 +4,7 @@ description: "This is a catalog page"
 keywords: "catalog"
 
 date: 2024-04-07T21:31:11+08:00
-lastmod: 2024-04-08T23:55:01+08:00
+lastmod: 2024-04-10T23:55:01+08:00
 
 categories:
   - all
@@ -35,6 +35,11 @@ weight: 2
 * [面试-线下](post/interview-offline.html)
 * [面试-线上](post/interview-online.html)
 
+## Room
+
+* [租房平台](post/room-platform.html)
+* [租房注意事项](post/room-platform.html)
+
 ## Java
 
 * [Java基础-数据类型](post/java-basic-datatype.html)
@@ -64,7 +69,7 @@ weight: 2
 * [Android-动画](post/android-anim.html)
 * [Android-Annotation](post/android-annotation.html)
 
-### 基础三
+### 进阶篇
 * [Android-RecyclerView](post/android-recyclerview.html)
 * [Android-RecyclerView布局](post/android-recyclerviewlayout.html)
 * [Android-Handler机制](post/android-handler.html)
@@ -90,9 +95,37 @@ weight: 2
 * [LeetCode-0005-最长回文子串](post/leetcode-0005.html)
 * ...
 
-## Room
+## Project Management
+* [项目管理-启动](post/pm-startup.html)
+* [项目管理-规划](post/pm-plan.html)
+* [项目管理-执行](post/pm-execute.html)
+* [项目管理-监督](post/pm-supervisor.html)
+* [项目管理-收尾](post/pm-end.html)
 
-* [租房平台](post/room-platform.html)
-* [租房注意事项](post/room-platform.html)
-
+## Tools
+* [Chrome](post/tool-chrome.html)
+* [Microsoft Office](post/tool-office.html)
+* [iWorks](post/tool-page-number-keynote.html)
+* [Visual Studio Code](post/tool-vscode.html)
+* [IntelliJ IDEA](post/tool-idea.html)
+* [Eclipse](post/tool-eclipse.html)
+* [Android Studio](post/tool-androidstudio.html)
+* [Termius](post/tool-termius.html)
+* [Sublime Text](post/tool-sublimetext.html)
+* [Draw.io](post/tool-drawio.html)
+* [Xmind](post/tool-xmind.html)
+* [StarUML](post/tool-startuml.html)
+* [Git](post/tool-git.html)
+* [GitHub](post/tool-github.html)
+* [Charles](post/tool-charles.html)
+* [Postman](post/tool-postman.html)
+* [Parallels Desktop](post/tool-parallelsdesktop.html)
+* [Xcode](post/tool-termius.html)
+* [Sketch](post/tool-sketch.html)
+* [Beyond Compare](post/tool-beyongcompare.html)
+* [Atom](post/tool-atom.html)
+* [RealVNC](post/tool-vnc.html)
+* [VNC](post/tool-vnc.html)
+* [Everything](post/tool-everything.html)
+* [*Typora*](post/tool-typora.html)
 
