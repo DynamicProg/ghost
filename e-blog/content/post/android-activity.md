@@ -16,7 +16,7 @@ comment:
   enable: false
 
 toc: true
-url: "android-activity.html"
+url: "post/android-activity.html"
 ---
 
 **Android Activity**
