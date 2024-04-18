@@ -32,22 +32,38 @@ GitHub上[ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)�
 
 ### 购买流程
 * 登录[腾讯云](post/ai-catalog.html)
+![腾讯云首页](/imgs/ai-server-buy-1.png)
 * 实名认证
 * 购买[轻量应用服务器](https://cloud.tencent.com/product/lighthouse)
+![腾讯云轻量应用服务器](/imgs/ai-server-buy-1.png)
 * 选择安装系统Ubuntu 20.04
+![腾讯云轻量应用服务器](/imgs/ai-server-buy-2.png)
 * 登录启动
-* [域名注册TODO](https://dnspod.cloud.tencent.com/)
+![腾讯云轻量应用服务器](/imgs/ai-server-buy-3.png)
+* [域名注册](https://dnspod.cloud.tencent.com/)
+![域名注册入口](/imgs/ai-server-domain.png)
+![域名选择](/imgs/ai-server-domain-buy.png)
+![域名购买+信息模版](/imgs/ai-server-domain-buy-2.png)
+![域名控制台](/imgs/ai-server-domain-portal.png)
+* [云解析DNS](https://cloud.tencent.com/product/dns)
 
+![DNS入口](/imgs/ai-server-dns.png)
+![DNS配置](/imgs/ai-server-dns-config.png)
+![DNS控制台](/imgs/ai-server-dns-portal.png)
 ## 基础配置
 * Ubuntu国内镜像源配置
 * SSH配置访问
+![访问](/imgs/ai-server-ssh.png)
+![Termius](/imgs/ai-server-ssh-login.png)
 * GNOME配置桌面
 * VNC配置远程桌面
 * 服务器防火墙配置
+![防火墙](/imgs/ai-server-firewall.png)
 
 ## 软件配置
 * Docker和Docker-compose安装配置
 * Nginx Proxy Manager安装
+![NPM访问](/imgs/ai-server-default.png)
 * VSCode
 * Google Chrome
 
@@ -57,9 +73,10 @@ GitHub上[ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)�
 * Docker安装chatgpt-web，配置docker-compose.yml
 * 防火墙和端口配置
 * 启动
-```
-docker-compost up -d
+```l
+docker-compose up -d
 ```
 
 现在就可以使用浏览器，输入http://ip:port访问了部署的网页版应用了
-[示例](http://81.70.81.156:8090/)
+
+[示例](http://www.dynamicprog.cn:8090/)
