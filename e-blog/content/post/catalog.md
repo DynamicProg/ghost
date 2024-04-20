@@ -1,19 +1,21 @@
 ---
 title: "目录"
 description: "This is a catalog page"
-keywords: "catalog"
+keywords: "all, catalog"
 
 date: 2024-04-07T21:31:11+08:00
-lastmod: 2024-04-10T23:55:01+08:00
+lastmod: 2024-04-07T23:55:01+08:00
 
 categories:
-  - all
+  - ALL
 tags:
+  - ALL
   - catalog
 
 comment:
   enable: false
-url: "catalog.html"
+
+url: "post/catalog.html"
 toc: true
 weight: 2
 ---

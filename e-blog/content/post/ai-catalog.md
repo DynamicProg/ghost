@@ -7,9 +7,9 @@ date: 2024-04-17T03:04:49+08:00
 lastmod: 2024-04-17T03:04:49+08:00
 
 categories:
-  - ai
+  - AI
 tags:
-  - ai
+  - AI
   - catalog
 
 comment:
