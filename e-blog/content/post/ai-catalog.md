@@ -20,18 +20,21 @@ weight: 2
 ---
 
 网页版ChatGPT应用环境配置和部署流程
-// TODO 待补充下列各节点细节
+
+// TODO 待补充节点细节
 
 <!--more-->
 
-GitHub上[ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)是热门开源项目，通过ChatGPT-Next-Web可以一键部署一个自己的ChatGPT应用。
+GitHub上[ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)是一个热门开源项目
+
+通过[ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)可以一键部署一个自己的ChatGPT应用
 
 ## 服务器
 
-建议购买[腾讯云](post/ai-catalog.html)或[阿里云](https://cn.aliyun.com/)，这里以[腾讯云](post/ai-catalog.html)举例
+建议购买[腾讯云](https://cloud.tencent.com)或[阿里云](https://cn.aliyun.com/)，这里以[腾讯云](https://cloud.tencent.com)举例
 
 ### 购买流程
-* 登录[腾讯云](post/ai-catalog.html)
+* 登录[腾讯云](https://cloud.tencent.com)
 ![腾讯云首页](/imgs/ai-server-buy-1.png)
 * 实名认证
 * 购买[轻量应用服务器](https://cloud.tencent.com/product/lighthouse)
