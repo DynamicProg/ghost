@@ -16,7 +16,6 @@ comment:
   enable: false
 toc: false
 url: "post/android-component.html"
-weight: 1
 ---
 
 android-component
