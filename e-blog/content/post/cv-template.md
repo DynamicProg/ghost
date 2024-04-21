@@ -16,7 +16,7 @@ url: "post/cv-template.html"
 toc: true
 ---
 
-简历模版信息. 
+简历模版信息  
 
 <!--more-->
 
