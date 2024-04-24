@@ -75,9 +75,9 @@ C, C++, Java, Python, Go, Kotlin, etc.
 ---
 | 公司名 | 日期 |
 | :--- | ---: |
-| 北京百度网讯科技有限公司 | 2010.01–2020.01 |
-| 阿里巴巴（中国）有限公司 | 2010.01–2020.01 |
-| 深圳市腾讯计算机系统有限公司 | 2010.01–2020.01 |
+| 北京百度网讯科技有限公司 | 2010.10–2020.10 |
+| 阿里巴巴（中国）有限公司 | 2010.10–2020.10 |
+| 深圳市腾讯计算机系统有限公司 | 2010.10–2020.10 |
 ---
 
 ### 担任角色
@@ -92,7 +92,6 @@ C, C++, Java, Python, Go, Kotlin, etc.
 | OD | Operations Director | 运营总监 |
 | RD | Research & Develop | 研发 |
 | FE | Front End | 前端 |
-| BE | Back End | 后端 |
 | OP | Operation | 运维 |
 | UXUE | User Experience | 用户体验 |
 | QA | Quality Assurance | 测试 |
