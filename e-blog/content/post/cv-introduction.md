@@ -4,7 +4,7 @@ description: "cv-introduction"
 keywords: "cv,introduction"
 
 date: 2024-04-20T23:59:01+08:00
-lastmod: 2024-04-20T23:59:01+08:00
+lastmod: 2024-04-25T23:59:01+08:00
 
 categories:
   - CV
@@ -71,25 +71,54 @@ C, C++, Java, Python, Go, Kotlin, etc.
 ### 公司&部门
 * 倒叙填写  
 当前或最近任职公司、部门、岗位、项目信息  
-// TODO
+
+---
+| 公司名 | 日期 |
+| :--- | ---: |
+| 北京百度网讯科技有限公司 | 2010.01–2020.01 |
+| 阿里巴巴（中国）有限公司 | 2010.01–2020.01 |
+| 深圳市腾讯计算机系统有限公司 | 2010.01–2020.01 |
+---
 
 ### 担任角色
 * 简述个人担任角色  
-// TODO
+
+| 职位 | 描述 | 描述 |
+| :--- | :--- | :--- |
+| CEO | Chief Executive Officer | 首席执行官 |
+| VP | Vice President | 副总裁 |
+| BD | Business Development | 商务 |
+| PM | Project Manager | 项目经理 |
+| OD | Operations Director | 运营总监 |
+| RD | Research & Develop | 研发 |
+| FE | Front End | 前端 |
+| BE | Back End | 后端 |
+| OP | Operation | 运维 |
+| UXUE | User Experience | 用户体验 |
+| QA | Quality Assurance | 测试 |
 
 ### 核心业务&项目流程
 * 说明岗位职责和重点  
-// TODO
+// TODO  
+
+| 公司名 | 日期 |
+| :--- | ---: |
+| 智能云事业群组 | 2010.10–2020.10 |
+| 公共云业务事业部 | 2010.10–2020.10 |
+| 云与智慧产业事业群 | 2010.10–2020.10 |
 
 * 客观体现项目成果  
 已上线，预装量，安装量等  
 DAU, PV, GMV, QPS, etc.  
-// TODO
 
 ## 教育背景
 * 倒叙填写  
 从最高学历往前填写  
-// TODO
+
+| 教育北京 | 时间地点 |
+| :--- | ---: |
+| 北京大学<br>计算机 硕士 | 2010.10–2020.10<br>北京 |
+| 北京大学<br>计算机 本科 | 2010.10–2020.10<br>北京 |
 
 * 突出岗位相关专业或背景  
 如应聘研发岗位，突出计算机相关背景  
