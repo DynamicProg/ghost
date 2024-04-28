@@ -8,9 +8,8 @@ GitHub上 ChatGPT-Next-Web 是一个热门开源项目
 示例</content></entry><entry><title>Interview Offline</title><url>/post/interview-offline.html</url><categories><category>CV</category></categories><tags><tag>CV</tag></tags><content type="html"> interview-offline
 // TODO</content></entry><entry><title>Interview Plan</title><url>/post/interview-plan.html</url><categories><category>CV</category></categories><tags><tag>CV</tag></tags><content type="html"> interview-plan
 // TODO</content></entry><entry><title>Interview Post</title><url>/post/interview-post.html</url><categories><category>CV</category></categories><tags><tag>CV</tag></tags><content type="html"> interview-post
-// TODO</content></entry><entry><title>简历示例</title><url>/post/cv-demo.html</url><categories><category>CV</category></categories><tags><tag>CV</tag></tags><content type="html"> 简历的示例
-RD // TODO 待脱敏后添加
-PM // TODO 待脱敏后添加</content></entry><entry><title>简历模版</title><url>/post/cv-template.html</url><categories><category>CV</category></categories><tags><tag>CV</tag></tags><content type="html"> 简历模版信息
+// TODO</content></entry><entry><title>简历示例</title><url>/post/cv-demo.html</url><categories><category>CV</category></categories><tags><tag>CV</tag></tags><content type="html"> 简历示例
+RD</content></entry><entry><title>简历模版</title><url>/post/cv-template.html</url><categories><category>CV</category></categories><tags><tag>CV</tag></tags><content type="html"> 简历模版信息
 说明 不同的职业岗位，可能对简历中重点信息的体现不同
 简历模版 Word模版 简介：排版简洁，在线编辑
 超级简历 简介：免费且丰富
@@ -43,22 +42,8 @@ C, C++, Java, Python, Go, Kotlin, etc.
 如Android Studio, VS Code, Git, XMind等
 办公软件
 如Microsoft Word, Excel, PowerPoint, Visio, WPS等
-工作经历&amp;项目经验 公司&amp;部门 倒叙填写
-当前或最近任职公司、部门、岗位、项目信息 公司名 日期 北京百度网讯科技有限公司 2010.10–2020.10 阿里巴巴（中国）有限公司 2010.10–2020.10 深圳市腾讯计算机系统有限公司 2010.10–2020.10 担任角色 简述个人担任角色 职位 描述 描述 CEO Chief Executive Officer 首席执行官 VP Vice President 副总裁 BD Business Development 商务 PM Project Manager 项目经理 OD Operations Director 运营总监 RD Research &amp; Develop 研发 FE Front End 前端 OP Operation 运维 UXUE User Experience 用户体验 QA Quality Assurance 测试 核心业务&amp;项目流程 说明岗位职责和重点
-// TODO 公司名 日期 智能云事业群组 2010.10–2020.10 公共云业务事业部 2010.10–2020.10 云与智慧产业事业群 2010.10–2020.10 客观体现项目成果
-已上线，预装量，安装量等
-DAU, PV, GMV, QPS, etc. 教育背景 倒叙填写
-从最高学历往前填写 教育北京 时间地点 北京大学
-计算机 硕士 2010.10–2020.10
-北京 北京大学
-计算机 本科 2010.10–2020.10
-北京 突出岗位相关专业或背景
-如应聘研发岗位，突出计算机相关背景
-如获得岗位相关证书、证明等信息 其他信息 其他证书、证明
-可填写岗位相关的信息，提升竞争力
-自我评价
-简要描述，体现主观能动性、专业素质、团队协作、领导力等
-  ]]></content></entry><entry><title>Android IPC</title><url>/post/android-ipc.html</url><categories><category>Android</category></categories><tags><tag>Android</tag><tag>IPC</tag></tags><content type="html"> Android IPC
+工作经历&amp;amp;项目经验 公司&amp;amp;部门 倒叙填写
+当前或最近任职公司、部门、岗位、项目信息 公司名 日期 北京百度网讯科技有限公司 2010.10–2020.10 阿里巴巴（中国）有限公司 2010.10–2020.10 深圳市腾讯计算机系统有限公司 2010.10–2020.10 担任角色 简述个人担任角色 职位 描述 描述 CEO Chief Executive Officer 首席执行官 VP Vice President 副总裁 BD Business Development 商务 PM Project Manager 项目经理 OD Operations Director 运营总监 RD Research &amp;amp; Develop 研发 FE Front End 前端 OP Operation 运维 UXUE User Experience 用户体验 QA Quality Assurance 测试 核心业务&amp;amp;项目流程 说明岗位职责 …  ]]></content></entry><entry><title>Android IPC</title><url>/post/android-ipc.html</url><categories><category>Android</category></categories><tags><tag>Android</tag><tag>IPC</tag></tags><content type="html"> Android IPC
 思维导图</content></entry><entry><title>Android Handler</title><url>/post/android-handler.html</url><categories><category>Android</category></categories><tags><tag>Android</tag><tag>Handler</tag></tags><content type="html"> Android Handler
 思维导图</content></entry><entry><title>Android RecyclerView Layout</title><url>/post/android-recyclerviewlayout.html</url><categories><category>Android</category></categories><tags><tag>Android</tag><tag>RecyclerView</tag></tags><content type="html"> Android RecyclerView Layout
 思维导图</content></entry><entry><title>Android RecyclerView</title><url>/post/android-recyclerview.html</url><categories><category>Android</category></categories><tags><tag>Android</tag><tag>RecyclerView</tag></tags><content type="html"> Android RecyclerView
