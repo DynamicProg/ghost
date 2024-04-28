@@ -4,7 +4,7 @@ description: "cv-introduction"
 keywords: "cv,introduction"
 
 date: 2024-04-20T23:59:01+08:00
-lastmod: 2024-04-25T23:59:01+08:00
+lastmod: 2024-04-28T23:59:01+08:00
 
 categories:
   - CV
@@ -13,7 +13,7 @@ tags:
   - catalog
 comment:
   enbale: false
-url: "cv-introduction.html"
+url: "post/cv-introduction.html"
 toc: true
 ---
 
@@ -128,7 +128,7 @@ DAU, PV, GMV, QPS, etc.
 | 教育背景 | 时间地点 |
 | :--- | ---: |
 | **BJ大学**<br>计算机应用技术 硕士 | 2010.10–2020.10<br>北京 |
-| **BJ大学**<br>计算机科学与技术 本科 | 2010.10–2020.10<br>北京 |
+| **BJ大学**<br>计算机科学与技术 本科<br>GPA: 3.6/4.0 | 2010.10–2020.10<br>北京 |
 
 * 突出岗位相关专业或背景  
 如应聘研发岗位，突出计算机相关背景  
